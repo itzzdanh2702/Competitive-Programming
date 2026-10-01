@@ -1,0 +1,1 @@
+{"name":"Local: KNAPSACK","url":"c:\\Users\\User\\OneDrive\\TINHOC\\TMATH\\QHD\\KNAPSACK.cpp","tests":[{"id":1675766122722,"input":"5 15\n12 4\n2 2\n1 1\n1 2\n4 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\OneDrive\\TINHOC\\TMATH\\QHD\\KNAPSACK.cpp","group":"local","local":true}

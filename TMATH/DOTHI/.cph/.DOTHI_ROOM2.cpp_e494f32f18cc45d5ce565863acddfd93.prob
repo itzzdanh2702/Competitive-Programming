@@ -1,0 +1,1 @@
+{"name":"Local: DOTHI_ROOM2","url":"c:\\Users\\User\\OneDrive\\Desktop\\TMATH\\DOTHI\\DOTHI_ROOM2.cpp","tests":[{"id":1669428125317,"input":"5 5 \n1 1 1 1 1\n1 0 1 0 1\n1 1 1 1 1\n1 0 0 0 1\n1 1 1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\OneDrive\\Desktop\\TMATH\\DOTHI\\DOTHI_ROOM2.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PathDFS","url":"c:\\Users\\User\\OneDrive\\Desktop\\TMATH\\DOTHI\\PathDFS.cpp","tests":[{"id":1667807389020,"input":"5 5 1 3 \n1 4\n1 5\n2 3\n2 4\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\OneDrive\\Desktop\\TMATH\\DOTHI\\PathDFS.cpp","group":"local","local":true}

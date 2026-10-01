@@ -1,0 +1,1 @@
+{"name":"Local: SET","url":"c:\\Users\\User\\OneDrive\\Desktop\\TMATH\\CTDL\\SET.cpp","tests":[{"id":1667701289715,"input":"7\n1 3\n3\n1 5\n2 plus\n3\n2 minus\n3","output":""},{"id":1667722669527,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\OneDrive\\Desktop\\TMATH\\CTDL\\SET.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: MinPath","url":"c:\\Users\\User\\OneDrive\\Desktop\\TMATH\\DOTHI\\DOTHI_DIJIKTRA\\MinPath.cpp","tests":[{"id":1673232750933,"input":"3 4\n1 2 1\n1 2 1000\n2 3 3\n1 3 100\n1 3","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\OneDrive\\Desktop\\TMATH\\DOTHI\\DOTHI_DIJIKTRA\\MinPath.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PathBFS","url":"c:\\Users\\User\\OneDrive\\Desktop\\TMATH\\DOTHI\\PathBFS.cpp","tests":[{"id":1667809134016,"input":"8 9 1 5 \n1 2\n1 3\n2 3\n2 4\n3 5\n4 6\n5 2\n6 2\n7 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\OneDrive\\Desktop\\TMATH\\DOTHI\\PathBFS.cpp","group":"local","local":true}

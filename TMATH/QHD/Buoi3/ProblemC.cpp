@@ -1,0 +1,44 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define ll long long
+#define fi first
+#define se second
+#define pii pair<ll, ll>
+const long long MOD = 1000000007;
+#define MAXN 1000005
+#define oo 1000000000
+void FAST()
+{
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+}
+
+int n;
+ll k;
+ll a[MAXN];
+ll pre[MAXN];
+ll ans = 0;
+
+int main(int argc, char const *argv[])
+{
+    FAST();
+    cin >> n >> k;
+    for(int i = 1 ; i <= n ; ++i)
+    {
+        cin >> a[i];
+        pre[i] = pre[i - 1] + a[i];
+    }
+    for(int i = 1 ; i <= n - 1; ++i)
+    {
+        for(int j = i + 1 ; j <= n ; ++j)
+        {
+            if(pre[j] - pre[i - 1] == k)
+            {
+                ++ans; 
+            }
+        }
+    }
+    cout << ans;
+    return 0;
+}
